@@ -1,0 +1,75 @@
+.logo img {
+    padding: 11px;
+    width: 300px;
+    height: 46px;
+    padding-left: 115px;
+}
+
+.bar0 {
+    background-color: #ede8e3;
+    padding: 4px;
+    width: 100%;
+}
+
+.bar1 ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+
+.barisi {
+    background-color: #ede8e3;
+}
+
+
+
+td {
+    border: 0px solid black;
+    padding: 10px;
+    font-weight: bold;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.box1 {
+    float: left;
+    width: 100%;
+    padding: 11px;
+    padding-left: 100px;
+    font-size: 14px;
+}
+
+.img1 {
+    float: left;
+    padding-left: 40px;
+}
+
+
+.war li {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar1 {
+    float: left;
+}
+
+.navbar1 a {
+    display: block;
+    text-align: center;
+}

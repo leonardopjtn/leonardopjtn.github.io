@@ -1,0 +1,132 @@
+                .logo img {
+                    padding: 11px;
+                    width: 300px;
+                    height: 46px;
+                 padding-left: 115px;
+                }
+                
+                .bar0 {
+                    background-color: #ede8e3;
+                    padding: 4px;
+                    width: 100%;
+                }
+                
+                .bar1 {
+                    padding: 4px;
+                }
+                
+                ul {
+                    list-style-type: none;
+                    margin: 0px;
+                    padding: 0px;
+                    overflow: hidden;
+                }
+                
+                li {
+                    float: left;
+                }
+                
+                li a {
+                    top: 0;
+                    display: block;
+                    color: black;
+                    text-align: center;
+                    padding: 10px;
+                    text-decoration: none;
+                }
+                
+                li :active {
+                    background-color: white;
+                }
+                
+                .barisi {
+                    background-color: #d1cdcd;
+                }
+                
+                .barisi1 li {
+                    float: left;
+                    font-weight: bold;
+                }
+                
+                .barisi1 li a {
+                    display: inline-block;
+                    color: #f0e9e9;
+                    text-align: center;
+                    padding: 12px 10px;
+                }
+                
+                .div {
+                    margin: auto;
+                    width: 82%;
+                }
+                
+                div.gallery {
+                    float: left;
+                    width: 180px;
+                    margin: auto;
+                    width: 32%;
+                }
+                
+                div.gallery:active {
+                    border: 1px solid #777;
+                }
+                
+                div.gallery img {
+                    padding: 15px;
+                    width: 100%;
+                    height: auto;
+                }
+                
+                * {
+                    box-sizing: border-box;
+                }
+                
+                .box {
+                    float: left;
+                    width: 100%;
+                    padding: 10px;
+                    padding-left: 100px;
+                }
+                
+                .img1 {
+                    float: left;
+                    padding-left: 20px;
+                }
+                
+                .www {
+                    color: white;
+                    font-weight: bold;
+                    padding-left: 150px;
+                }
+                
+                .war li {
+                    padding: 10px;
+                    font-weight: bold;
+                }
+                
+                .navbar {
+                    list-style-type: none;
+                    margin: 0;
+                    padding: 0;
+                    overflow: hidden;
+                    background-color: white;
+                    position: fixed;
+                    top: 0;
+                    width: 100%;
+                }
+                
+                .navbar1 {
+                    float: left;
+                }
+                
+                .navbar1 a {
+                    display: block;
+                text-align: center;
+                font-size: 14px;
+                font-weight: normal;
+                }
+                
+                .desc {
+                    text-align: center;
+                    font-weight: bold;
+                }

@@ -1,0 +1,236 @@
+            .logo img {
+                padding: 11px;
+                width: 300px;
+                height: 46px;
+                padding-left: 80px;
+            }
+            
+            .bar0 {
+                background-color: #ede8e3;
+                padding: 0px;
+                width: 100%;
+            }
+            
+            .bar1 {
+                width: 100%;
+                background-color: white;
+            }
+            
+            ul {
+                list-style-type: none;
+                margin: 0px;
+                padding: 0px;
+                overflow: hidden;
+            }
+            
+            li {
+                float: left;
+            }
+            
+            li a {
+                top: 0;
+                display: block;
+                color: black;
+                text-align: center;
+                padding: 4px;
+                text-decoration: none;
+            }
+            
+            li :active {
+                background-color: white;
+            }
+            
+            .mySlides {
+                display: none;
+            }
+            
+            .judul1 {
+                padding-left: 120px;
+            }
+            
+            * {
+                box-sizing: border-box;
+            }
+            
+            .img-container {
+                float: left;
+                width: 63%;
+                padding-left: 9%;
+            }
+            
+            .img-container1 {
+                float: left;
+                width: 37%;
+                padding-right: 9%;
+                padding-left: 15px;
+                text-decoration: none;
+            }
+            
+            .text1 {
+                background-color: rgb(7, 7, 80);
+                color: white;
+                font-weight: bold;
+            }
+            
+            .kata {
+                padding-left: 10px;
+                font-size: 13px;
+                text-decoration: none;
+            }
+            
+            .gambar1 {
+                float: left;
+                width: 31%;
+                padding-top: 15px;
+                padding-left: 10px;
+            }
+            
+            .gambar2 {
+                float: left;
+                width: 30.3%;
+                padding-top: 15px;
+                padding-left: 15px;
+            }
+            
+            .gambar3 {
+                float: left;
+                width: 31%;
+                padding-top: 15px;
+                padding-left: 15px;
+                padding-bottom: 15PX;
+            }
+            
+            .text2 {
+                padding: 10px;
+                font-size: 15px;
+            }
+            
+            .cta-btn {
+                width: auto;
+                margin: 20px 30px 15px 500px;
+                padding: 16px 20px;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 17px;
+                font-weight: 400;
+                color: #fff;
+                transition: all .2s;
+                display: inline-block;
+                line-height: 1em;
+                background-color: #002c5f;
+                text-align: center;
+                font-weight: bold;
+            }
+            
+            div.gallery {
+                margin: 20px;
+                float: left;
+                width: 340px;
+            }
+            div.gallery1 {
+                margin: 35px;
+                float: left;
+                width: 190px;
+                
+
+            }
+            
+            div.gallery:active {
+                border: 2px solid #777;
+            }
+            
+            div.gallery img {
+                width: 100%;
+                height: auto;
+            }
+            
+            .kata a {
+                text-decoration: none;
+            }
+            
+            div.desc {
+                padding: 15px;
+                text-align: left;
+                color: white;
+                padding-left: 1px;
+            }
+            
+            .judul1 a {
+                text-decoration: none;
+                color: black;
+            }
+            
+            .bawah {
+                padding-left: 105px;
+            }
+            .biodata {
+                padding: 80px;
+                padding-bottom: 20px;
+            }
+            
+            .biodata img {
+                float: left;
+                margin-left: 300PX;
+                border: 1px solid black;
+                border-radius: 10px;
+               
+            }
+            
+            .judul2 {
+                color: white;
+                padding-left: 125px;
+            }
+            
+            .barbawah {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                display: inline;
+            }
+            
+            li {
+                padding: 10px;
+            }
+            
+            * {
+                box-sizing: border-box;
+            }
+            
+            .box {
+                float: left;
+                width: 100%;
+                padding: 10px;
+                padding-left: 100px;
+            }
+            
+            .img1 {
+                float: left;
+                padding-left: 40px;
+            }
+            
+            .www {
+                color: white;
+                font-weight: bold;
+                padding-left: 150px;
+            }
+            
+            .navbar {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: white;
+                position: fixed;
+                top: 0;
+                width: 100%;
+            }
+            
+            .navbar1 {
+                float: left;
+            }
+            
+            .navbar1 a {
+                display: block;
+                text-align: center;
+                font-size: 14px;
+                font-weight: normal;
+            }
